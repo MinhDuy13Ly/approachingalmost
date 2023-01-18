@@ -140,3 +140,7 @@ models/
 *.pkl
 *.pth
 *.bin
+
+#Local Pycharm file
+/.idea/
+
